@@ -16,4 +16,4 @@ AI Engineer
 - Hour 9: Confusion Matrix + Full sklearn pipeline
 
 ## Tools
-Python, NumPy, Scikit-learn, Matplotlib
+Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
