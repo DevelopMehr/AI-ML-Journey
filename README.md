@@ -16,6 +16,7 @@ AI Engineer
 - Hour 9: Confusion Matrix + Full sklearn pipeline
 - Hour 10: Naive Bayes Theorem
 - Hour 11: K-Nearest Neighbour
+- Hour 12: Model Comparison
 
 ## Tools
 Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
