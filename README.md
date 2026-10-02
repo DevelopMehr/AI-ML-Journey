@@ -14,6 +14,7 @@ AI Engineer
 - Hour 7: Logistic Regression and Sigmoid
 - Hour 8: Log Loss and Full Logistic Training from scratch
 - Hour 9: Confusion Matrix + Full sklearn pipeline
+- Hour 10: Naive Bayes Theorem
 
 ## Tools
 Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
