@@ -17,6 +17,12 @@ AI Engineer
 - Hour 10: Naive Bayes Theorem
 - Hour 11: K-Nearest Neighbour
 - Hour 12: Model Comparison
+- Hour 13: Decision trees
+- Hour 14: Neural Network Intro
+- Hour 15: Ensemblle Methods
+- Hour 16: XGBoost
+- Hour 17: Clustering
+- Hour 18: Anamoly Detection
 
 ## Tools
 Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
