@@ -26,4 +26,4 @@ AI Engineer
 - Hour 19: Neural Network Training Tensorflow
 
 ## Tools
-Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
+Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG , Tensorflow, 
