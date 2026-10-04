@@ -23,6 +23,7 @@ AI Engineer
 - Hour 16: XGBoost
 - Hour 17: Clustering
 - Hour 18: Anamoly Detection
+- Hour 19: Neural Network Training Tensorflow
 
 ## Tools
 Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG
