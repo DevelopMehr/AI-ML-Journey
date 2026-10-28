@@ -28,4 +28,4 @@ AI Engineer
 - Sept: 2. Recommender System
 
 ## Tools
-Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG , Tensorflow, 
+Python, NumPy, Scikit-learn, Matplotlib, streamlit, sql, flask/fastAPI, LLM APIs, RAG , Tensorflow, PyTorch
